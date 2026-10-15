@@ -49,7 +49,7 @@ Menu names can change. If yours look different, see Anthropic's guide: [Use skil
 
 ```bash
 # Personal install (all projects)
-git clone https://github.com/YOUR-USERNAME/murder-mystery-builder.git
+git clone https://github.com/Sharmelan10/murder-mystery-builder.git
 mkdir -p ~/.claude/skills
 cp -r murder-mystery-builder/murder-mystery-builder ~/.claude/skills/
 
