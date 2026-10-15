@@ -1,0 +1,5 @@
+# Engine outputs inside case folders (rebuild with scripts/engine.py)
+murder-mystery-builder/examples/**/artifact.html
+murder-mystery-builder/examples/**/standalone.html
+__pycache__/
+.DS_Store
